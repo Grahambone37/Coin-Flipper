@@ -1,0 +1,8 @@
+HTML:
+
+Title to dice toss game
+dice image
+roll dice button
+clear button
+status message
+scoreboard 3x7
